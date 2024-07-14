@@ -1,6 +1,6 @@
 # LazyVim configuration
 
-To get started install LazyVim as described in theri documenation.
+To get started install LazyVim as described in their documenation.
 
 The plugins can be enabled by storing the plugin-files under ~/.config/nvim/lua/plugins. 
 
